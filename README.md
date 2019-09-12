@@ -1,2 +1,2 @@
-# POS-Tagging-
-POS tagging with NLTK and Spicy
+# POS Tagging
+A tutorial on POS tagging and Named Entity Recognition using with NLTK and Spicy in Python
